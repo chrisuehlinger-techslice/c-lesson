@@ -2,6 +2,6 @@
 
 make clean
 
-make
+make all
 
 ./test-app
