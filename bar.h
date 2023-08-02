@@ -1,0 +1,1 @@
+float bar_public_function(float x);
